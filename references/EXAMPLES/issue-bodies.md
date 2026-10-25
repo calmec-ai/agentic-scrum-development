@@ -65,7 +65,7 @@ Waiting for G3.
 ## You to Developer (Claude Code)
 
 ```
-Take GitHub issue #41. REPO=jracostab/ai-co-founder-workspace.
+Take GitHub issue #41. REPO=calmec-ai/ai-co-founder-workspace.
 Follow $HOME/workspace/agentic-scrum-development/AGENTS/developer/AGENTS.md
 and SKILLS/story-implement. Stop after the plan comment.
 ```

@@ -5,7 +5,7 @@ Repo default: set `REPO` in your shell.
 ## Hour 0–2 — GitHub
 
 ```bash
-export REPO=jracostab/ai-co-founder-workspace
+export REPO=calmec-ai/ai-co-founder-workspace
 export PACK="$HOME/workspace/agentic-scrum-development"
 chmod +x "$PACK/scripts/"*.sh
 "$PACK/scripts/enable_automation.sh"

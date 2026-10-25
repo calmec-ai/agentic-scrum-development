@@ -10,7 +10,7 @@ This bundle adds Scrum (backlog, sprint, stories, and defects) to agents you alr
 |------|--------|
 | Runtimes | Hermes Agent, Claude Code |
 | Working copy | `$HOME/workspace/agentic-scrum-development` |
-| Repository | https://github.com/jracostab/agentic-scrum-development |
+| Repository | https://github.com/calmec-ai/agentic-scrum-development |
 | Default branch | `main` |
 | Development branch | `dev` |
 
