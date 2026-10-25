@@ -17,7 +17,7 @@ usage: $0 [options]
   --skip-skills     Do not install Hermes/Claude skills
 
 Examples:
-  export REPO=jracostab/ai-co-founder-workspace
+  export REPO=calmec-ai/ai-co-founder-workspace
   $0 --clone \$HOME/workspace/tinto-co-founder
 EOF
 }
